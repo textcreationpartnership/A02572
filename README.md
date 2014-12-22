@@ -35,32 +35,24 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The souldiers honour Wherein by diuers inferences and gradations it is euinced, that the profession 
+
+1. To the well deseruing Captaine EDWARD PANTON, the Captaines and truly generous Gentlemen, Citizens of London, of the Societie of ARMES, practising in the Artillerie Garden.
+
 #####Body#####
 
-1. The Alarme.
+1. THE SOVLDIERS HONOVR. Wherein by diuerse inferences and gradations it is euinced, that the Profession is iust, necessarie, and honourable: to be practised of some men, praysed of all men. Together with a short Admonition, concerning Munition, to this honoured Citie.
 
-    _ The Nature of it; What, warre.
+    _ The Alarme.
 
-    _ The time, or Quando: Then.
+    _ The Battell.
 
-    _ The Place, or Vbi.
+      * The Nature of it; What, warre.
 
-1. The Battell.
+      * The time, or Quando: Then.
 
-    _ The Nature of it; What, warre.
+      * The Place, or Vbi.
 
-    _ The time, or Quando: Then.
-
-    _ The Place, or Vbi.
-
-1. The Forlorne Hope.
-
-    _ The Nature of it; What, warre.
-
-    _ The time, or Quando: Then.
-
-    _ The Place, or Vbi.
+    _ The Forlorne Hope.
 
 **Types of content**
 
